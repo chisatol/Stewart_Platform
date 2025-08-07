@@ -75,9 +75,5 @@ Stewart_Platform/
 - 补充运动学/动力学求解
 - 丰富 GUI 控制功能
 - 优化 STM32 控制代码结构
-- 增加多平台支持（如 ESP32、ROS）
----
----
-
+- 增加多平台支持
 感谢使用 **Stewart_Platform** 项目！✨
-```
